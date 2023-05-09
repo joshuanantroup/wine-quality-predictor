@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wine-quality-predictor-381604",
+  "private_key_id": "86e6fc8b76b75193e989706eb3518a9c004a8233",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdtVFcUiYaB1EZ\nNGWppBYFNK2aG2lXFmhOxBunZSDeL+6i1jFSw/Ez1PJumzJXf/T97S2/ZnJ//+qj\nNt0PmK55opSu8d7GL4Pw22BaX8FZToQrMzlFDuFK18r+F/37wOyj4zpEr5FheDiY\nQlq6ztvxDU40NnYQosnEMMuQm7w+CukKRgEoKP6t1ygjrnWhbKyEEU+u/sQZk0fz\nAMjEC7zW+dg1EvlGq6/JUYI9IapFDquyJ3vek6Qt4+zopB/DKPywCZgue6xT5RTq\nGfK2UsoBd75f+UjYrNmVSQMt/5daxAqmyDHG8xToDlc0bILoOAB2TS6NRylMlIk6\nyoPDPZuHAgMBAAECggEAESqdFOfa6TcQrHtX8ZOV01085FXFgqBCxwgbsSiV36Q8\nspGOxDaQjmwd3iJF5DZebDbL+wCOHWwK61cxJYh2Esa6rnb6ISfSPH50n4G6zHDP\n0YVS34x+GM/NHcQYy7WKofroQHUSkGyDTzeHJBHDk8U3VQGfRQejNMLRoF0DVtwH\nZCpJIdF6w7vIsQNgXPS15ZU+HM4lhwaJbYcBPoau/hVq1kyOAoID0mZBbJsP/4l1\n2H5sea1p+++J0HeY27+Jj+/HWjeqGUXi9CnVWGnBmzb/felQN27l7zruUsNpk/yD\nHklLyPTaYVwRPwsSK1oRVH9+RQOW56i7dQzCHC+iQQKBgQDQt7bnRe9iFgQ2RDY3\n3SglKdos4sWpQ27x2np13JIIbxuk2cS0ljY2XSc7OFlg0szGj54q/GPpg+MPkHty\n7zjFTDwZmcZeX149xQpfR6pgnUxulms2CbPcxJ/K8Lbroc/7pQYlB0tL6LvbNqkp\nPctCUMwhIOArlEW+6REQ88+GpwKBgQDBb2MeL7F8igAGyjXvHb3B64mT0ETW8hU/\ncwasRxEaEVHaRf/MUBd28YcAbHCntbHq/3pXLxUgL3svhgTD6gq/wJSFUM+cFOWG\nH7vAYHebFSyK1dXE+wA2HuXPwwRnLXLXORqBtGBPzVczFyvLmeJ8GHvYZr/TAakB\nBIBoW4DAIQKBgAjvtL8WOXejpa6FISUnLO7aaeL+GqRypK9qQVAGj6IYz8AxKsDo\npY2SU3mvofQJUoc14vnIMKbw5Knn78EuCOo5p2EZOmsT/j76zsThlqPoWDtr6U84\n/yB2srjHsa1JElSd7jNrqoengVOTdY60fJ1sRDEu7SowgQP5iqeFKN+FAoGAb7Ez\nmHCNmY3Nqh4Euod/1IN+sz0lIsAyCKsQhVWbyGOL0e9tXro4clPQUixLeGtvynOu\nXr0vA6CnDq/h/IYdos8+cyRQXJ2sUp/sN478QS4exCPpBY6xdo6swCSpXDJgB2pP\npelTW4EEAto0TaITpvg0OqZJyTtCLPY+dwOu+kECgYBn4BlRe8D5QKFlOfHhcC32\nC9hPEK2Mu0HS03E2tdk9Nb6Il2pciJkh5HL94T7+1w2u1729qLMsPkJ/bHpB0I+p\nTs0Ic/w5R2bhFyh6vD2FmI/OFhDFgnqxrytMF6soyiPtRnP2rJT/IsW/mVYBMLMR\nQXHJxWmYTMarnljBYKBnEQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "wine-quality-predictor@wine-quality-predictor-381604.iam.gserviceaccount.com",
+  "client_id": "100403130236362377140",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wine-quality-predictor%40wine-quality-predictor-381604.iam.gserviceaccount.com"
+}
